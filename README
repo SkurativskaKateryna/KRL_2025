@@ -1,0 +1,5 @@
+Name: Application of the LLAMA Model for Transforming Natural Language into First-Order Logic Formulas
+Author: Kateryna Skurativska 
+Professors: Roberto Confalonieri, Luciano Serafini
+
+This project focuses on transforming natural language into First-Order Logic (FOL) formulas. We explore model selection and utilize the LLAMA model in combination with UNSLOTH, enhanced with LoRA for efficient fine-tuning. The experiments are conducted on the MALLS-v0 dataset.
